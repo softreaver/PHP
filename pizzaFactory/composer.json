@@ -1,0 +1,16 @@
+{
+    "name": "christophermilazzo/pizza-factory",
+    "authors": [{
+        "name": "Chris DEV",
+        "email": "softreaver@laposte.net"
+    }],
+    "autoload": {
+        "psr-4": {
+            "PizzaFactory\\": "src/"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "symfony/var-dumper": "^4.1"
+    }
+}
